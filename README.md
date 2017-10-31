@@ -4,6 +4,9 @@
 * **
 #### **GENERAL**
 * **imgwelcome** - Opciones de configuración para la imagen de bienvenida.
+*
+*
+*
 * **
 #### **MUSICA**
 * **play** - Reproduce un enlace / busca una cancion.
