@@ -26,7 +26,7 @@
 * **lvlset** - Opciones de configuración del perfil.
 * **bgs** - Muestras todas los fondos disponible para los perfiles
 * **bgpreview** - Muestra un link para poder visualizar los fondos
-* **buyprofile** - Añade una imagen a tu perfil / `buyprofile <image_name> / `buyrank<image_name>` / `buylevelup <image_name>`.
+* **buyprofile** - Añade una imagen a tu perfil / `buyprofile <image_name>` / `buyrank<image_name>` / `buylevelup <image_name>`.
 * **profile** - Muestra un perfil de usuario.
 * **top** - Muestra el top del server.Para top global `!top -global`.
 * **rank** - Muestra el rango de un usuario.
