@@ -5,6 +5,7 @@
 #### **MUSICA**
 * **play** - poner una musica
 #### **FUN**
+* **pepe** - Mustra una imagen pepe random 
 #### **SOCIAL**
 * **hug** - da un abrazo
 #### **OSU!**
