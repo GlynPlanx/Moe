@@ -4,4 +4,6 @@
 #### **MUSICA**
 * **play** - poner una musica
 
+#### **SOCIAL**
+* **hug** - da un abrazo
 
