@@ -1,6 +1,7 @@
 ![intro](https://i.imgur.com/cZy8YvL.png)
 # Moe Bot - Comandos
 [![Join Discord](https://img.shields.io/badge/discord-join-7289DA.svg)](https://discord.gg/wJEJtmF)  [<img src="https://img.shields.io/badge/Support-me!-orange.svg">](https://www.paypal.me/MoeSupport)
+* **
 #### **GENERAL**
 * **imgwelcome** - Opciones de configuración para la imagen de bienvenida.
 #### **MUSICA**
@@ -28,7 +29,7 @@
 * **bgpreview** - Muestra un link para poder visualizar los fondos
 * **buyprofile** - Añade una imagen a tu perfil / `buyprofile <image_name>` / `buyrank<image_name>` / `buylevelup <image_name>`.
 * **profile** - Muestra un perfil de usuario.
-* **top** - Muestra el top del server.Para top global `!top -global`.
+* **top** - Muestra el top del server.Para top global `top -global` / `top -rep`
 * **rank** - Muestra el rango de un usuario.
 * **rep** - Da un punto de reputación a un jugador designado.
 * **dailies** - Obtenga algunos créditos gratuitos,
