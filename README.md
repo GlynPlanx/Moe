@@ -4,6 +4,7 @@
 * **
 #### **GENERAL**
 * **imgwelcome** - Opciones de configuración para la imagen de bienvenida.
+* **
 #### **MUSICA**
 * **play** - Reproduce un enlace / busca una cancion.
 * **radio** - Radio anime rakuen.
@@ -12,6 +13,7 @@
 * **skip** - Salta a la siguiente canción.
 * **queue** - Ver la cola de musica.
 * **stop** - Detiene una canción o lista de reproducción actualmente.
+* **
 #### **FUN**
 * **pepe** - Mustra una imagen pepe random.
 #### **SOCIAL**
