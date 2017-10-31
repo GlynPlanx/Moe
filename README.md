@@ -4,8 +4,8 @@
 * **
 #### **GENERAL**
 * **imgwelcome** - Opciones de configuración para la imagen de bienvenida.
-*
-*
+* **serverinfo** - Informacion del servidor.
+* **userinfo** - Informacion del usuario.
 *
 * **
 #### **MUSICA**
@@ -22,7 +22,7 @@
 * **neko** - Nekos! \ o / Warning: Algunos nekos lascivos existen.
 * **
 #### **SOCIAL**
-* **hug** - da un abrazo
+* **hug** - Abraze a su waifu/senpai
 *
 *
 *
