@@ -21,8 +21,19 @@
          especificaciones para los demas modos usar !ctb !taiko !mania 
 * **osutop** - Da mejores jugadas de osu. Use -ripple / -official para usar 
            especificaciones para los demas modos usar !ctbtop !taikotop
-* **recent** - Da jugadas recientes del jugador/recent ctb Moe.
+* **recent** - Da jugadas recientes del jugador
+#### **SISTEMA DE NIVELES**
+* **lvlset** - Opciones de configuración del perfil.
+* **bgs** - Muestras todas los fondos disponible para los perfiles
+* **bgpreview** - Muestra un link para poder visualizar los fondos
+* **buyprofile** - Añade una imagen a tu perfil/buyprofile <image_name>/buyrank<image_name> /buylevelup <image_name>.
+* **profile** - Muestra un perfil de usuario.
+* **top** - Muestra el top del server.Para top global `!top -global`.
+* **rank** - Muestra el rango de un usuario.
+* **rep** - Da un punto de reputación a un jugador designado.
+* **dailies** - Obtenga algunos créditos gratuitos,
 #### **ECONOMIA**
+* **
 #### **OWNER**
 
 
