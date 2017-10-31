@@ -1,6 +1,6 @@
 
 # Moe Bot - Comandos
-[<img src="https://discordapp.com/api/guilds/357381864966717440/widget.png?style=shield">](https://discord.gg/QtWgxUx)
+[![Join Discord](https://img.shields.io/badge/discord-join-7289DA.svg)](https://discord.gg/wJEJtmF)
 #### *Music*
 
 
