@@ -52,6 +52,10 @@
 * **bank** - Operaciones bancarias.
 * **creditos** - Para ver tus creditos o del Usuario.
 * **
+#### **NSFW**
+* **loli**
+* **nya**
+* **
 #### **OWNER**
 * **contact** - Manda un mensaje el dueño del bot para soporte.
 * **uptime** - Tiempo de online del bot.
