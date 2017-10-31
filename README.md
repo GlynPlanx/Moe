@@ -32,9 +32,9 @@
 #### **OSU!**
 * **osuset** - Donde puede definir algunos ajustes
 * **osu** - Da a los usuarios de osu! un status. Use -ripple / -official para usar 
-         especificaciones para los demas modos usar !ctb !taiko !mania 
+         especificaciones para los demas modos usar `!ctb` `!taiko` `!mania` 
 * **osutop** - Da mejores jugadas de osu. Use -ripple / -official para usar 
-           especificaciones para los demas modos usar !ctbtop !taikotop
+           especificaciones para los demas modos usar `!ctbtop` `!taikotop`
 * **recent** - Da jugadas recientes del jugador
 * **
 #### **SISTEMA DE NIVELES**
