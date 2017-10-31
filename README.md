@@ -16,8 +16,10 @@
 * **
 #### **FUN**
 * **pepe** - Mustra una imagen pepe random.
+* **
 #### **SOCIAL**
 * **hug** - da un abrazo
+* **
 #### **OSU!**
 * **osuset** - Donde puede definir algunos ajustes
 * **osu** - Da a los usuarios de osu! un status. Use -ripple / -official para usar 
@@ -25,6 +27,7 @@
 * **osutop** - Da mejores jugadas de osu. Use -ripple / -official para usar 
            especificaciones para los demas modos usar !ctbtop !taikotop
 * **recent** - Da jugadas recientes del jugador
+* **
 #### **SISTEMA DE NIVELES**
 * **lvlset** - Opciones de configuración del perfil.
 * **bgs** - Muestras todas los fondos disponible para los perfiles
@@ -34,18 +37,11 @@
 * **top** - Muestra el top del server.Para top global `top -global` / `top -rep`
 * **rank** - Muestra el rango de un usuario.
 * **rep** - Da un punto de reputación a un jugador designado.
-* **dailies** - Obtenga algunos créditos gratuitos,
+* **dailies** - Obtenga algunos créditos gratuitos.
+* **
 #### **ECONOMIA**
 * **
 #### **OWNER**
-
-
-
-
-
-
-
-
-
+* **
 
 [Unete al server Oficial!](https://discord.gg/red)
