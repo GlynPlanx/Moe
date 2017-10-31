@@ -16,9 +16,15 @@
 * **
 #### **FUN**
 * **pepe** - Mustra una imagen pepe random.
+* **neko** - Nekos! \ o / Warning: Algunos nekos lascivos existen.
 * **
 #### **SOCIAL**
 * **hug** - da un abrazo
+*
+*
+*
+*
+*
 * **
 #### **OSU!**
 * **osuset** - Donde puede definir algunos ajustes
@@ -40,8 +46,13 @@
 * **dailies** - Obtenga algunos créditos gratuitos.
 * **
 #### **ECONOMIA**
+* **bank** - Operaciones bancarias.
+* **creditos** - Para ver tus creditos o del Usuario.
 * **
 #### **OWNER**
+* **contact** - Manda un mensaje el dueño del bot para soporte.
+* **uptime** - Tiempo de online del bot.
+* **invitar** - Genera un link de invitacion del bot.
 * ******
 
 [Unete al server Oficial!](https://discord.gg/red)
