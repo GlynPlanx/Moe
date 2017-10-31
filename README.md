@@ -15,4 +15,4 @@
 
 
 
-[Unete al server Oficial](https://discord.gg/red)!
+[Unete al server Oficial!](https://discord.gg/red)
