@@ -18,6 +18,7 @@
 * **stop** - Detiene una canción o lista de reproducción actualmente.
 * **
 #### **FUN**
+* **race** - Disable
 * **pepe** - Mustra una imagen pepe random.
 * **neko** - Nekos! \ o / Warning: Algunos nekos lascivos existen.
 * **
