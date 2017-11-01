@@ -38,7 +38,8 @@
 * **recent** - Da jugadas recientes del jugador
 * **
 #### **SISTEMA DE NIVELES**
-* **lvlset** - Opciones de configuración del perfil.
+* **lvladmin** - Opciones de configuración del servidor
+* **lvlset** - Opciones de configuración de perfil.
 * **bgs** - Muestras todas los fondos disponible para los perfiles
 * **bgpreview** - Muestra un link para poder visualizar los fondos
 * **buyprofile** - Añade una imagen a tu perfil / `buyprofile <image_name>` / `buyrank<image_name>` / `buylevelup <image_name>`.
