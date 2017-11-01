@@ -36,7 +36,7 @@
          especificaciones para los demas modos usar `!ctb` `!taiko` `!mania` 
 * **osutop** - Da mejores jugadas de osu. Use -ripple / -official para usar 
            especificaciones para los demas modos usar `!ctbtop` `!taikotop`
-* **recent** - Da jugadas recientes del jugador
+* **recent** - Da jugadas recientes del jugador. Para ello debes estar registrado.
 * **
 #### **SISTEMA DE NIVELES**
 * **lvladmin** - Opciones de configuración del servidor
