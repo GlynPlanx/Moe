@@ -6,7 +6,7 @@
 * **imgwelcome** - Opciones de configuración para la imagen de bienvenida.
 * **serverinfo** - Informacion del servidor.
 * **userinfo** - Informacion del usuario.
-*
+* **rpoll** - el argumento de tiempo es opcional `m!rpoll ¿Es esta una encuesta?; Sí; No; Tal vez; t = 60`/ `rpoll stop` (admin/autor)
 * **
 #### **MUSICA**
 * **play** - Reproduce un enlace / busca una cancion.
