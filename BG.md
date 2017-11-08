@@ -11,4 +11,7 @@
 | Ayase![imagen](https://i.imgur.com/G2ZbfBa.png) | RinZura![imagen](https://i.imgur.com/GmheFcb.png) | Mari-nya![imagen](https://i.imgur.com/ZyDrGlY.png)
 | --- | --- | --- |
 
+| Ayase![imagen](https://i.imgur.com/G2ZbfBa.png)
+| --- | --- | --- |
+
 # Moe Rank
