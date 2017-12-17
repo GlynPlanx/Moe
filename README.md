@@ -37,6 +37,7 @@
 * **osutop** - Da mejores jugadas de osu. Use -ripple / -official para usar 
            especificaciones para los demas modos usar `!ctbtop` `!taikotop`
 * **recent** - Da jugadas recientes del jugador. Para ello debes estar registrado.
+* **osutrack** - Osu!
 * **
 #### **SISTEMA DE NIVELES**
 * **lvladmin** - Opciones de configuración del servidor
