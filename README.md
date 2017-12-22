@@ -7,6 +7,7 @@
 * **serverinfo** - Informacion del servidor.
 * **userinfo** - Informacion del usuario.
 * **rpoll** - el argumento de tiempo es opcional `m!rpoll ¿Es esta una encuesta?; Sí; No; Tal vez; t = 60`/ `rpoll stop` (admin/autor)
+* **convert** - subir video a discord y usar url.
 * **
 #### **MUSICA**
 * **play** - Reproduce un enlace / busca una cancion.
